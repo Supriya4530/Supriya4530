@@ -50,17 +50,6 @@ Frontend Password Manager
 ✔ Responsive UI  
 ✔ Local storage implementation  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supriya4530&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya4530&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 - 🔗 LinkedIn:https://www.linkedin.com/in/supriya-sukale-6252b91a8/
 - 📧 Email: supriyasukale11@gmail.com
